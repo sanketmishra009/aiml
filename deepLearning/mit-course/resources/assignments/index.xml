@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Assignments on MIT OpenCourseWare</title>
+    <link>/resources/assignments/</link>
+    <description>Recent content in Assignments on MIT OpenCourseWare</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="/resources/assignments/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Assignments</title>
+      <link>/pages/assignments/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/pages/assignments/data.json</guid>
+      <description>&lt;p&gt;Ali Mohammad and Rohit Singh prepared the problem sets and solutions.&lt;/p&gt;&#xA;&lt;p&gt;&lt;table&gt;&#xA;&#xA;&lt;thead&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;th&gt;&#xA;&#xA;ASSIGNMENTS&#xA;&lt;/th&gt;&#xA;&#xA;&lt;th&gt;&#xA;&#xA;SOLUTIONS&#xA;&lt;/th&gt;&#xA;&#xA;&lt;th&gt;&#xA;&#xA;SUPPORTING FILES&#xA;&lt;/th&gt;&#xA;&lt;/p&gt;&#xA;&lt;/tr&gt;&#xA;&#xA;&lt;p&gt;&lt;/thead&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;Problem set 1 (&lt;a href=&#34;../../resources/hw1/index.html&#34;&gt;PDF&lt;/a&gt;)&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Section A (&lt;a href=&#34;../../resources/hw1a_soln/index.html&#34;&gt;PDF&lt;/a&gt;)&lt;/p&gt;&#xA;&lt;p&gt;Section B (&lt;a href=&#34;../../resources/hw1b_soln/index.html&#34;&gt;PDF&lt;/a&gt;)&lt;/p&gt;&#xA;&lt;p&gt;perceptron_test.m (&lt;a href=&#34;../../resources/perceptron_test/index.html&#34;&gt;M&lt;/a&gt;)&lt;/p&gt;&#xA;&lt;p&gt;perceptron_train.m (&lt;a href=&#34;../../resources/perceptron_train/index.html&#34;&gt;M&lt;/a&gt;)&lt;/p&gt;&#xA;&lt;p&gt;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Errata (&lt;a href=&#34;../../resources/hw1errata/index.html&#34;&gt;TXT&lt;/a&gt;)&lt;/p&gt;&#xA;&lt;p&gt;p1.zip (&lt;a href=&#34;../../resources/p1/index.html&#34;&gt;ZIP&lt;/a&gt;) (The ZIP file contains: 3 .m files and 4 .dat files.)&lt;/p&gt;&#xA;&lt;p&gt;p3.zip (&lt;a href=&#34;../../resources/p3/index.html&#34;&gt;ZIP - 8.5 MB&lt;/a&gt;) (The ZIP file contains: 3 .svm files.)&lt;/p&gt;&#xA;&lt;p&gt;strimage.m (&lt;a href=&#34;../../resources/strimage/index.html&#34;&gt;M&lt;/a&gt;)&lt;/p&gt;&#xA;&lt;/td&gt;&#xA;&#xA;&lt;p&gt;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;Problem set 2 (&lt;a href=&#34;../../resources/hw2/index.html&#34;&gt;PDF&lt;/a&gt;)&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;(&lt;a href=&#34;../../resources/hw2_soln/index.html&#34;&gt;PDF&lt;/a&gt;)&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;Errata (&lt;a href=&#34;../../resources/hw2errata/index.html&#34;&gt;TXT&lt;/a&gt;)&#xA;&lt;/td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;Problem set 3 (&lt;a href=&#34;../../resources/hw3/index.html&#34;&gt;PDF&lt;/a&gt;)&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;(&lt;a href=&#34;../../resources/hw3_soln/index.html&#34;&gt;PDF&lt;/a&gt;)&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;Errata (&lt;a href=&#34;../../resources/hw3errata/index.html&#34;&gt;TXT&lt;/a&gt;)&#xA;&lt;/td&gt;&#xA;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>hw1.pdf</title>
+      <link>/resources/hw1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/hw1/data.json</guid>
+      <description>&lt;p&gt;Problem set.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>hw1a_soln.pdf</title>
+      <link>/resources/hw1a_soln/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/hw1a_soln/data.json</guid>
+      <description>&lt;p&gt;Problem set solutions.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>hw1b_soln.pdf</title>
+      <link>/resources/hw1b_soln/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/hw1b_soln/data.json</guid>
+      <description>&lt;p&gt;Problem set solution.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>hw1errata.txt</title>
+      <link>/resources/hw1errata/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/hw1errata/data.json</guid>
+      <description>&lt;p&gt;Problem set errata.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>hw2_soln.pdf</title>
+      <link>/resources/hw2_soln/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/hw2_soln/data.json</guid>
+      <description>&lt;p&gt;Problem set solutions.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>hw2.pdf</title>
+      <link>/resources/hw2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/hw2/data.json</guid>
+      <description>&lt;p&gt;Problem set.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>hw2errata.txt</title>
+      <link>/resources/hw2errata/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/hw2errata/data.json</guid>
+      <description>&lt;p&gt;Problem set errata.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>hw3_soln.pdf</title>
+      <link>/resources/hw3_soln/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/hw3_soln/data.json</guid>
+      <description>&lt;p&gt;Problem set solutions.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>hw3.pdf</title>
+      <link>/resources/hw3/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/hw3/data.json</guid>
+      <description>&lt;p&gt;Problem set.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>hw3errata.txt</title>
+      <link>/resources/hw3errata/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/hw3errata/data.json</guid>
+      <description>&lt;p&gt;Problem set errata.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>hw4_soln.pdf</title>
+      <link>/resources/hw4_soln/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/hw4_soln/data.json</guid>
+      <description>&lt;p&gt;Problem set solutions.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>hw4.pdf</title>
+      <link>/resources/hw4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/hw4/data.json</guid>
+      <description>&lt;p&gt;Problem set.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>hw4errata.txt</title>
+      <link>/resources/hw4errata/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/hw4errata/data.json</guid>
+      <description>&lt;p&gt;Problem set errata.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>hw5_soln.pdf</title>
+      <link>/resources/hw5_soln/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/hw5_soln/data.json</guid>
+      <description>&lt;p&gt;Problem set solutions.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>hw5.pdf</title>
+      <link>/resources/hw5/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/hw5/data.json</guid>
+      <description>&lt;p&gt;Problem set.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>hw5errata.txt</title>
+      <link>/resources/hw5errata/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/hw5errata/data.json</guid>
+      <description>&lt;p&gt;Problem set errata.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>p1.zip</title>
+      <link>/resources/p1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/p1/data.json</guid>
+      <description>&lt;p&gt;Data files for a problem set.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>p3.zip</title>
+      <link>/resources/p3/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/p3/data.json</guid>
+      <description>&lt;p&gt;Data files for a problem set.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>perceptron_test.m</title>
+      <link>/resources/perceptron_test/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/perceptron_test/data.json</guid>
+      <description>&lt;p&gt;MATLAB? script for a problem set.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>perceptron_train.m</title>
+      <link>/resources/perceptron_train/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/perceptron_train/data.json</guid>
+      <description>&lt;p&gt;MATLAB? script for a problem set.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>prob1_data.zip</title>
+      <link>/resources/prob1_data/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/prob1_data/data.json</guid>
+      <description>&lt;p&gt;Data files for a problem set.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>prob2_data.zip</title>
+      <link>/resources/prob2_data/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/prob2_data/data.json</guid>
+      <description>&lt;p&gt;Data files for a problem set.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>strimage.m</title>
+      <link>/resources/strimage/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/strimage/data.json</guid>
+      <description>&lt;p&gt;MATLAB? script for a problem set.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

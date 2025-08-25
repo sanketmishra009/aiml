@@ -1,0 +1,33 @@
+{
+  "course_title":"Machine Learning",
+  "course_description":"6.867 is an introductory course on machine learning which gives an overview of many concepts, techniques, and algorithms in machine learning, beginning with topics such as classification and linear regression and ending up with more recent topics such as boosting, support vector machines, hidden Markov models, and Bayesian networks. The course will give the student the basic ideas and intuition behind modern machine learning methods as well as a bit more formal understanding of how, why, and when they work. The underlying theme in the course is statistical inference as it provides the foundation for most of the methods covered.\n",
+  "course_description_html":"6.867 is an introductory course on machine learning which gives an overview of many concepts, techniques, and algorithms in machine learning, beginning with topics such as classification and linear regression and ending up with more recent topics such as boosting, support vector machines, hidden Markov models, and Bayesian networks. The course will give the student the basic ideas and intuition behind modern machine learning methods as well as a bit more formal understanding of how, why, and when they work. The underlying theme in the course is statistical inference as it provides the foundation for most of the methods covered.",
+  "site_uid":"47c40b73-bfd7-4f31-bc07-bb7327851020",
+  "legacy_uid":"ade08b44-66bf-c348-07c4-9ca4f3d2be87","instructors": [{
+    "first_name":"Rohit",
+    "last_name":"Singh",
+    "middle_initial":"",
+    "salutation":"",
+    "title":"Rohit Singh"},{
+    "first_name":"Tommi",
+    "last_name":"Jaakkola",
+    "middle_initial":"",
+    "salutation":"Prof.",
+    "title":"Prof. Tommi Jaakkola"},{
+    "first_name":"Ali",
+    "last_name":"Mohammad",
+    "middle_initial":"",
+    "salutation":"",
+    "title":"Ali Mohammad"}],"department_numbers":["6"],
+  "learning_resource_types":["Problem Sets with Solutions","Exams with Solutions","Lecture Notes"],
+  "topics":[["Engineering","Computer Science","Algorithms and Data Structures"],["Engineering","Computer Science","Artificial Intelligence"],["Science","Cognitive Science"],["Mathematics","Probability and Statistics"]],
+  "mit_learn_topics":null,
+  "primary_course_number":"6.867",
+  "extra_course_numbers":"",
+  "term":"Fall",
+  "year":"2006",
+  "level":["Graduate"],
+  "hide_download":null,
+  "image_src":"./static_resources/6fc42e1b17babba77f04228a00b1e110_6-867f06.jpg",
+  "course_image_metadata":{"content_type":"resource","description":"Robotic mannequin, \"Manny\", constructed at Pacific Northwest Laboratory. (Image is taken from Department of Energy's Digital Archive.)","draft":false,"file":"/courses/6-867-machine-learning-fall-2006/6fc42e1b17babba77f04228a00b1e110_6-867f06.jpg","file_size":72010,"file_type":"image/jpeg","image_metadata":{"caption":"Robotic mannequin, \"Manny\", constructed at Pacific Northwest Laboratory. (Image is taken from [Department of Energy's Digital Archive](http://www.doedigitalarchive.doe.gov/).)","credit":"","image-alt":"Image of robotic mannequin, 'Manny', constructed at Pacific Northwest Laboratory."},"iscjklanguage":false,"learning_resource_types":[],"license":"https://creativecommons.org/licenses/by-nc-sa/4.0/","ocw_type":"OCWImage","resourcetype":"Image","title":"6-867f06.jpg","uid":"6fc42e1b-17ba-bba7-7f04-228a00b1e110","video_files":{"video_thumbnail_file":null},"video_metadata":{"youtube_id":null}}}
+

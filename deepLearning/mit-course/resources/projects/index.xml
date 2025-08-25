@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on MIT OpenCourseWare</title>
+    <link>/resources/projects/</link>
+    <description>Recent content in Projects on MIT OpenCourseWare</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="/resources/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projects</title>
+      <link>/pages/projects/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/pages/projects/data.json</guid>
+      <description>&lt;p&gt;The choice of topic for the class project is up to you so long as it clearly pertains to the course material. It is fine to select a topic that is related to your area of research so long as you can isolate a part that is not carried out in collaboration with people outside the class. You are encouraged to collaborate on the project but this is by no means required. We expect a &lt;strong&gt;four page write-up&lt;/strong&gt; about the project, which should clearly and succinctly describe the project goal, methods, and your results. You can refer to (and provide) supplementary material if you wish but the 4-page description should be detailed enough so that the project can be graded only on the basis of the write-up. A two person group will have 6 pages, a three person group will have 8 pages, and so on. The page limit and at least 11pt font is necessary (and will be enforced) to ensure that we will be able to read through everyone&amp;rsquo;s project carefully. Each group should submit only one copy of the write-up and include all the names of the group members. The projects will be graded on the basis of your understanding of the overall course material (not based on, e.g., how brilliantly your method works). The scope of the project is about 1-2 problem sets.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

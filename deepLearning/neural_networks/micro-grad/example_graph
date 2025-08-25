@@ -1,0 +1,8 @@
+// Example Graph
+digraph {
+	A [label=Start]
+	B [label=Process]
+	C [label=End]
+	A -> B
+	B -> C
+}

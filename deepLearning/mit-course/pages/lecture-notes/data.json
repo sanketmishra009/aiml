@@ -1,0 +1,6 @@
+
+{
+  "title":"Lecture Notes",
+  "content":" LEC # TOPICS 1 Introduction, linear classification, perceptron update rule (PDF) 2 Perceptron convergence, generalization (PDF) 3 Maximum margin classification (PDF) 4 Classification errors, regularization, logistic regression (PDF) 5 Linear regression, estimator bias and variance, active learning (PDF) 6 Active learning (cont.), non-linear predictions, kernals (PDF) 7 Kernal regression, kernels (PDF) 8 Support vector machine (SVM) and kernels, kernel optimization (PDF) 9 Model selection (PDF) 10 Model selection criteria (PDF) 11 Description length, feature selection (PDF) 12 Combining classifiers, boosting (PDF) 13 Boosting, margin, and complexity (PDF) 14 Margin and generalization, mixture models (PDF) 15 Mixtures and the expectation maximization (EM) algorithm (PDF) 16 EM, regularization, clustering (PDF) 17 Clustering (PDF) 18 Spectral clustering, Markov models (PDF) 19 Hidden Markov models (HMMs) (PDF) 20 HMMs (cont.) (PDF) 21 Bayesian networks (PDF) 22 Learning Bayesian networks (PDF) 23 Probabilistic inference\nGuest lecture on collaborative filtering (PDF)\n24 Current problems in machine learning, wrap up "}
+
+

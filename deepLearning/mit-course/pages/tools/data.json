@@ -1,0 +1,6 @@
+
+{
+  "title":"Tools",
+  "content":" MATLAB® MATLAB® is a computational environment (language and tools) designed primarily for numerical computation and manipulation. It is very useful for running Machine Learning experiments, and we will be using it as the primary programming environment for this course. You do not need any deep knowledge of MATLAB® to complete the assignments but it will be necessary to learn some basics.\nMIT Information Services and Technology also provides some useful tips for a beginning MATLAB® user on MIT\u0026rsquo;s server. (PDF)\nResources Mathworks\u0026rsquo; MATLAB® documentation Sample Scripts Matrix Operations: matrix.m (M) File Operations: files.m (M) Plotting/Graphing: plot.m (M) "}
+
+

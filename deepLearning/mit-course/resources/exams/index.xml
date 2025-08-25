@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Exams on MIT OpenCourseWare</title>
+    <link>/resources/exams/</link>
+    <description>Recent content in Exams on MIT OpenCourseWare</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="/resources/exams/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exams</title>
+      <link>/pages/exams/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/pages/exams/data.json</guid>
+      <description>&lt;p&gt;Previous exams were provided to students as a study reference.&lt;/p&gt;&#xA;&lt;p&gt;&lt;table&gt;&#xA;&#xA;&lt;thead&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;th&gt;&#xA;&#xA;EXAMS&#xA;&lt;/th&gt;&#xA;&#xA;&lt;th&gt;&#xA;&#xA;SOLUTIONS&#xA;&lt;/th&gt;&#xA;&lt;/p&gt;&#xA;&lt;/tr&gt;&#xA;&#xA;&lt;p&gt;&lt;/thead&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td colspan=&#34;2&#34;&gt;&#xA;&#xA;&lt;strong&gt;Midterms&lt;/strong&gt;&#xA;&lt;/td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;Fall 2006&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;(&lt;a href=&#34;../../resources/midterm_f06soln/index.html&#34;&gt;PDF&lt;/a&gt;)&#xA;&lt;/td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;Fall 2004 (&lt;a href=&#34;../../resources/midterm_f04/index.html&#34;&gt;PDF&lt;/a&gt;)&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;(&lt;a href=&#34;../../resources/midterm_f04soln/index.html&#34;&gt;PDF&lt;/a&gt;)&#xA;&lt;/td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;Fall 2003 (&lt;a href=&#34;../../resources/midterm_f03/index.html&#34;&gt;PDF&lt;/a&gt;)&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;(&lt;a href=&#34;../../resources/midterm_f03soln/index.html&#34;&gt;PDF&lt;/a&gt;)&#xA;&lt;/td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;Fall 2002 (&lt;a href=&#34;../../resources/midterm_f02/index.html&#34;&gt;PDF&lt;/a&gt;)&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;(&lt;a href=&#34;../../resources/midterm_f02soln/index.html&#34;&gt;PDF&lt;/a&gt;)&#xA;&lt;/td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;Fall 2001 (&lt;a href=&#34;../../resources/midterm_f01/index.html&#34;&gt;PDF&lt;/a&gt;)&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;(&lt;a href=&#34;../../resources/midterm_f01soln/index.html&#34;&gt;PDF&lt;/a&gt;)&#xA;&lt;/td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td colspan=&#34;2&#34;&gt;&#xA;&#xA;&lt;strong&gt;Finals&lt;/strong&gt;&#xA;&lt;/td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;Fall 2004 (&lt;a href=&#34;../../resources/final_f04/index.html&#34;&gt;PDF&lt;/a&gt;)&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;(&lt;a href=&#34;../../resources/final_f04soln/index.html&#34;&gt;PDF&lt;/a&gt;)&#xA;&lt;/td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;Fall 2003 (&lt;a href=&#34;../../resources/final_f03/index.html&#34;&gt;PDF&lt;/a&gt;)&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;(&lt;a href=&#34;../../resources/final_f03soln/index.html&#34;&gt;PDF&lt;/a&gt;)&#xA;&lt;/td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;Fall 2002 (&lt;a href=&#34;../../resources/final_f02/index.html&#34;&gt;PDF&lt;/a&gt;)&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;(&lt;a href=&#34;../../resources/final_f02soln/index.html&#34;&gt;PDF&lt;/a&gt;)&#xA;&lt;/td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;Fall 2001 (&lt;a href=&#34;../../resources/final_f01/index.html&#34;&gt;PDF&lt;/a&gt;)&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;(&lt;a href=&#34;../../resources/final_f01soln/index.html&#34;&gt;PDF&lt;/a&gt;)&#xA;&lt;/td&gt;&#xA;&lt;/p&gt;&#xA;&lt;/tr&gt;&#xA;&#xA;&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>final_f01.pdf</title>
+      <link>/resources/final_f01/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/final_f01/data.json</guid>
+      <description>&lt;p&gt;Final exam on machine learning and neural networks from Fall 2001.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>final_f01soln.pdf</title>
+      <link>/resources/final_f01soln/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/final_f01soln/data.json</guid>
+      <description>&lt;p&gt;Solutions to a final exam on machine learning and neural networks from Fall 2001.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>final_f02.pdf</title>
+      <link>/resources/final_f02/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/final_f02/data.json</guid>
+      <description>&lt;p&gt;Final exam on machine learning and neural networks from Fall 2002.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>final_f02soln.pdf</title>
+      <link>/resources/final_f02soln/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/final_f02soln/data.json</guid>
+      <description>&lt;p&gt;Solutions to a final exam on machine learning and neural networks from Fall 2002.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>final_f03.pdf</title>
+      <link>/resources/final_f03/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/final_f03/data.json</guid>
+      <description>&lt;p&gt;Final exam on machine learning and neural networks from Fall 2003.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>final_f03soln.pdf</title>
+      <link>/resources/final_f03soln/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/final_f03soln/data.json</guid>
+      <description>&lt;p&gt;Solutions to a final exam on machine learning and neural networks from Fall 2003.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>final_f04.pdf</title>
+      <link>/resources/final_f04/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/final_f04/data.json</guid>
+      <description>&lt;p&gt;Final exam on machine learning and neural networks from Fall 2004.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>final_f04soln.pdf</title>
+      <link>/resources/final_f04soln/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/final_f04soln/data.json</guid>
+      <description>&lt;p&gt;Solutions to a final exam on machine learning and neural networks from Fall 2004.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>midterm_f01.pdf</title>
+      <link>/resources/midterm_f01/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/midterm_f01/data.json</guid>
+      <description>&lt;p&gt;Mid-term exam on machine learning and neural networks from Fall 2003.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>midterm_f01soln.pdf</title>
+      <link>/resources/midterm_f01soln/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/midterm_f01soln/data.json</guid>
+      <description>&lt;p&gt;Solutions to a mid-term exam on machine learning and neural networks from Fall 2003.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>midterm_f02.pdf</title>
+      <link>/resources/midterm_f02/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/midterm_f02/data.json</guid>
+      <description>&lt;p&gt;Mid-term exam on machine learning and neural networks from Fall 2003.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>midterm_f02soln.pdf</title>
+      <link>/resources/midterm_f02soln/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/midterm_f02soln/data.json</guid>
+      <description>&lt;p&gt;Solutions to a mid-term exam on machine learning and neural networks from Fall 2002.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>midterm_f03.pdf</title>
+      <link>/resources/midterm_f03/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/midterm_f03/data.json</guid>
+      <description>&lt;p&gt;Mid-term exam on machine learning and neural networks from Fall 2006.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>midterm_f03soln.pdf</title>
+      <link>/resources/midterm_f03soln/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/midterm_f03soln/data.json</guid>
+      <description>&lt;p&gt;Solutions to a mid-term exam on machine learning and neural networks from Fall 2003.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>midterm_f04.pdf</title>
+      <link>/resources/midterm_f04/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/midterm_f04/data.json</guid>
+      <description>&lt;p&gt;Mid-term exam on machine learning and neural networks from Fall 2004.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>midterm_f04soln.pdf</title>
+      <link>/resources/midterm_f04soln/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/midterm_f04soln/data.json</guid>
+      <description>&lt;p&gt;Solutions to a mid-term exam on machine learning and neural networks from Fall 2004.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>midterm_f06soln.pdf</title>
+      <link>/resources/midterm_f06soln/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/midterm_f06soln/data.json</guid>
+      <description>&lt;p&gt;Solutions to a mid-term exam on machine learning and neural networks from Fall 2006.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

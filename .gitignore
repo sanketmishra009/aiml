@@ -1,3 +1,4 @@
 **/data/
 **/images/
 scaler.zip\n*.zip\n.DS_Store\n**/.ipynb_checkpoints/\n
+**/models/

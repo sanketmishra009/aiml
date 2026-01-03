@@ -1,0 +1,21 @@
+{
+  "folders": [
+	{
+		"name": "nlp",
+		"path": "deepLearning/nlp"
+	},
+	{
+		"name": "vision",
+		"path": "deepLearning/vision"
+	},
+	{
+		"name": "scaler",
+		"path": "."
+	},
+	{
+		"name": "genai",
+		"path": "genai"
+	}
+],
+  "settings": {}
+}

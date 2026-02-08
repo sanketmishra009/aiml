@@ -1,21 +1,29 @@
 {
   "folders": [
-	{
-		"name": "nlp",
-		"path": "deepLearning/nlp"
-	},
-	{
-		"name": "vision",
-		"path": "deepLearning/vision"
-	},
-	{
-		"name": "scaler",
-		"path": "."
-	},
-	{
-		"name": "genai",
-		"path": "genai"
-	}
-],
-  "settings": {}
+    {
+      "name": "nlp",
+      "path": "deepLearning/nlp",
+    },
+    {
+      "name": "vision",
+      "path": "deepLearning/vision",
+    },
+    {
+      "name": "scaler",
+      "path": ".",
+    },
+    {
+      "name": "mlops",
+      "path": "mlops",
+    },
+    {
+      "name": "genai",
+      "path": "genai",
+    },
+    {
+      "name": "GoogleDrive-sanketmishra009@gmail.com",
+      "path": "../../../../Library/CloudStorage/GoogleDrive-sanketmishra009@gmail.com",
+    },
+  ],
+  "settings": {},
 }

@@ -1,0 +1,65 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "mllm"
+dynamic = ["version"]
+description = ''
+readme = "README.md"
+requires-python = ">=3.8"
+license = "MIT"
+keywords = []
+authors = [
+  { name = "sanketmishra009", email = "sanketmishra009@gmail.com" },
+]
+classifiers = [
+  "Development Status :: 4 - Beta",
+  "Programming Language :: Python",
+  "Programming Language :: Python :: 3.8",
+  "Programming Language :: Python :: 3.9",
+  "Programming Language :: Python :: 3.10",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+  "Programming Language :: Python :: Implementation :: CPython",
+  "Programming Language :: Python :: Implementation :: PyPy",
+]
+dependencies = []
+
+[project.urls]
+Documentation = "https://github.com/sanketmishra009/mllm#readme"
+Issues = "https://github.com/sanketmishra009/mllm/issues"
+Source = "https://github.com/sanketmishra009/mllm"
+
+[tool.hatch.version]
+path = "src/mllm/__about__.py"
+
+[tool.hatch.envs.types]
+extra-dependencies = [
+  "mypy>=1.0.0",
+]
+[tool.hatch.envs.types.scripts]
+check = "mypy --install-types --non-interactive {args:src/mllm tests}"
+
+[tool.coverage.run]
+source_pkgs = ["mllm", "tests"]
+branch = true
+parallel = true
+omit = [
+  "src/mllm/__about__.py",
+]
+
+[tool.coverage.paths]
+mllm = ["src/mllm", "*/mllm/src/mllm"]
+tests = ["tests", "*/mllm/tests"]
+
+[tool.coverage.report]
+exclude_lines = [
+  "no cov",
+  "if __name__ == .__main__.:",
+  "if TYPE_CHECKING:",
+]
+
+
+[project.scripts]
+mllm = "mllm.cli:main"

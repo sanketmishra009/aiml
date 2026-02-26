@@ -21,8 +21,10 @@
       "path": "genai",
     },
     {
-      "name": "GoogleDrive-sanketmishra009@gmail.com",
-      "path": "../../../../Library/CloudStorage/GoogleDrive-sanketmishra009@gmail.com",
+      "path": "projects/sapRAG",
+    },
+    {
+      "path": "agentic",
     },
   ],
   "settings": {},

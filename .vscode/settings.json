@@ -5,5 +5,12 @@
   "workbench.editor.enablePreview": false,
   "notebook.diff.enablePreview": false,
   "markdown.extension.preview.autoShowPreviewToSide": false,
-  "json.schemas": []
+  "json.schemas": [],
+  "python-envs.pythonProjects": [
+    {
+      "path": "",
+      "envManager": "ms-python.python:system",
+      "packageManager": "ms-python.python:pip"
+    }
+  ]
 }
